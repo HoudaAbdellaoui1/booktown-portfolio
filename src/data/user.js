@@ -13,7 +13,7 @@ const INFO = {
 		instagram: "https://www.instagram.com/houda05_/",
 		facebook: "https://www.facebook.com/abdellaoui.houda.9/",
 		youtube: "https://youtu.be/qOl4E5z9LjQ",
-		githubAccount: "https://github.com/HoudaAbdellaoui1"
+		githubAccount: "https://github.com/HoudaAbdellaoui1",
 	},
 
 	homepage: {
@@ -27,9 +27,11 @@ const INFO = {
 		title2: "Meet the Team ✌🏻",
 		description:
 			"The Book Town was born from a deep passion for reading and a desire to create a space where book enthusiasts can come together. The idea for the project sparked during a summer reading challenge in 2023, where I found myself juggling multiple lists of books and recommendations. I realized how much easier it would be if there was a single platform where I could manage my personal reading list, discover new books effortlessly, and connect with others who share my love for literature.",
-			description2: "Houda Abdellaoui",
-		subdescription: "This project is not only a labor of love but also a Portfolio Project for ALX Software Engineering Program for 2023, where I honed my skills in web development. You can explore the details of this project as part of my ALX SE Portfolio.",
-		teamdescription: 'I am a passionate software engineer and technical project manager with a deep love for the tech world. I specialize in web development using various frameworks, enjoying the challenge of solving complex problems while continuously learning new skills. I thrive in cross-functional teams, managing diverse projects with different stacks and technologies. My passion lies at the intersection of development and leadership, where I transform innovative ideas into impactful solutions'
+		description2: "Houda Abdellaoui",
+		subdescription:
+			"This project is not only a labor of love but also a Portfolio Project for ALX Software Engineering Program for 2023, where I honed my skills in web development. You can explore the details of this project as part of my ALX SE Portfolio.",
+		teamdescription:
+			"I am a passionate software engineer and technical project manager with a deep love for the tech world. I specialize in web development using various frameworks, enjoying the challenge of solving complex problems while continuously learning new skills. I thrive in cross-functional teams, managing diverse projects with different stacks and technologies. My passion lies at the intersection of development and leadership, where I transform innovative ideas into impactful solutions",
 	},
 
 	articles: {
@@ -64,7 +66,7 @@ const INFO = {
 			logo: "../tool.png",
 			linkText: "View Screenshot",
 			link: "https://drive.google.com/file/d/1Qs7beyMHhvUZSfap3IupP7ZiUAlJhUPE/view?usp=sharing",
-		}
+		},
 	],
 };
 

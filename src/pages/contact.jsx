@@ -41,7 +41,8 @@ const Contact = () => {
 
 					<div className="contact-container ">
 						<div className="title contact-title">
-						<FontAwesomeIcon icon={faComments} /> &nbsp; Let's Get in Touch
+							<FontAwesomeIcon icon={faComments} /> &nbsp; Let's
+							Get in Touch
 						</div>
 
 						<div className="subtitle contact-subtitle">

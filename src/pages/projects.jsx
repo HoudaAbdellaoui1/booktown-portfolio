@@ -40,9 +40,9 @@ const Projects = () => {
 					</div>
 					<div className="projects-container">
 						<div className="title projects-title">
-Main Features
+							Main Features
 						</div>
-						<FeaturesCaroussel/>
+						<FeaturesCaroussel />
 
 						<div className="projects-list">
 							<AllProjects />

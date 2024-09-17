@@ -11,7 +11,7 @@ import Contact from "./pages/contact";
 import Notfound from "./pages/404";
 
 import { TRACKING_ID } from "./data/tracking";
-import 'bootstrap/dist/css/bootstrap.min.css';
+import "bootstrap/dist/css/bootstrap.min.css";
 import "./app.css";
 
 function App() {

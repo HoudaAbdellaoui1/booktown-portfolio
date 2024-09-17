@@ -8,7 +8,7 @@ import {
 	faGithub,
 	faStackOverflow,
 	faInstagram,
-	faYoutube
+	faYoutube,
 } from "@fortawesome/free-brands-svg-icons";
 
 import Logo from "../components/common/logo";
@@ -140,8 +140,6 @@ const Homepage = () => {
 						<div className="homepage-projects">
 							<AllProjects />
 						</div>
-
-						
 
 						<div className="page-footer">
 							<Footer />
