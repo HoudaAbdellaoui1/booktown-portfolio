@@ -1,4 +1,4 @@
-# The Book Town Potfolio V1.0 👩🏽‍🚀
+# The Book Town Potfolio V1.0 📖
 
 BookTown Portfolio is a modern portfolio web app built using the popular React library. This web application provides users with a brief description of the project features. Book Town integrates modern web development practices and serves as a demonstration of my expertise in frontend development, state management, and UI design.
 
